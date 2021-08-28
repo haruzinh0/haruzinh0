@@ -19,7 +19,6 @@
     <img alt="Haru-VUE" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img alt="Haru-Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img alt="Haru-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
     <img alt="Haru-GPU" src="https://img.shields.io/badge/NVIDIA-GeForce210-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
     <img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 </div>
@@ -27,15 +26,10 @@
 
 # Infos
 <div>
-    <a href="https://www.youtube.com/channel/UCiUoNW8-BTepuh3u1r65_bw" target="_blank"><img alt="Haru-YouTube"
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://www.twitch.tv/haruzinsz" target="_blank"><img alt="Haru-Twitch"
-            src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-    <a href="https://ko-fi.com/haruzinho" target="_blank"><img alt="Haru-Kofi"
-            src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-    <a href="#"><img alt="Haru-OS"
-            src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-
-    ![Snake animation](https://svgur.com/i/_cB.svg)
-
+    <a href="https://www.youtube.com/channel/UCiUoNW8-BTepuh3u1r65_bw" target="_blank"><img alt="Haru-YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://www.twitch.tv/haruzinsz" target="_blank"><img alt="Haru-Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+    <a href="https://ko-fi.com/haruzinho" target="_blank"><img alt="Haru-Kofi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+    <a href="#"><img alt="Haru-OS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    
+    ![Snake animation](https://raw.githubusercontent.com/haruzinh0/haruzinh0/main/github-user-contribution.svg)
 </div>
