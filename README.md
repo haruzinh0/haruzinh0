@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**haruzinh0/haruzinh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Yo! I'm Haru!
+    <div>
+     <a href="https://github.com/haruzinh0">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haruzinh0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruzinh0&layout=compact&langs_count=7&theme=github_dark"/>
+   </div>
+   <div>
+    <img alt="Haru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Haru-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Haru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Haru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
+</body>
+</html>
