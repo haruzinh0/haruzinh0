@@ -1,6 +1,6 @@
 # Yo! I'm Haru!
 - 🌱 I’m currently learning Typescript
-- 🔭 I’m currently working on <a href="https://github.com/tunefy" target="_blank">Tunefy</a> as DEV and CEO.
+- 🔭 I’m currently working on <a href="https://github.com/tunefy" target="_blank">Tunefy</a> as **DEV** and **CEO**.
 <div>
     <a href="https://github.com/haruzinh0">
         <img height="180em"
