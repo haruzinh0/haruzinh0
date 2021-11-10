@@ -1,7 +1,9 @@
-# Yo! I'm Haru!
-- 🌱 I’m currently learning Typescript
-- 🔭 I’m currently working on <a href="https://github.com/tunefy" target="_blank">Tunefy</a> as **DEV** and **CEO**
-<div>
+<h1 align="center">Yo! I'm Haru!</h1>
+
+- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently working on [Tunefy](https://github.com/tunefy) as **DEV** and **CEO**
+
+<div align="center">
     <a href="https://github.com/haruzinh0">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=haruzinh0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
