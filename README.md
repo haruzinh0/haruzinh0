@@ -33,8 +33,8 @@
 <a href="https://www.twitch.tv/haruzinsz" target="_blank"><img alt="Haru-Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://ko-fi.com/haruzinho" target="_blank"><img alt="Haru-Kofi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <a href="#"><img alt="Haru-OS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<img alt="Haru-GPU" src="https://img.shields.io/badge/NVIDIA-GeForce210-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+<a href="#"><img alt="Haru-GPU" src="https://img.shields.io/badge/NVIDIA-GeForce210-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+<a href="#"><img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     
 ![Snake animation](https://github.com/haruzinh0/haruzinh0/blob/output/github-contribution-grid-snake.svg)
 </div>
