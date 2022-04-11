@@ -1,6 +1,6 @@
 <h1 align="center">Yo! I'm Haru!</h1>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **TypeScript**
 - 🔭 I’m currently working on [Tunefy](https://github.com/tunefy) as **DEV** and **CEO**
 
 <div align="center">
